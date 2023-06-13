@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+ .btn-primary {
+    background-color: black;
+    border-width: 0;
+    border-radius: 5px;
+}

@@ -14,8 +14,26 @@
  *= require_self
  */
 
+
+ .navbar {
+    background-color:  #452e56;
+    font-size: large;
+  }
+
+ .navbar-brand {
+    font-size: x-large;
+ }
+
+
  .btn-primary {
     background-color: black;
     border-width: 0;
     border-radius: 5px;
+}
+
+
+footer {
+    background-color: #452e56;
+    color: #ffffff;
+    font-size: large;
 }

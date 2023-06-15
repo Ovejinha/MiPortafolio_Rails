@@ -9,5 +9,5 @@ Rails.application.routes.draw do
   get '/contact',   to: 'contact#index'
 
   # Defines the root path route ("/")
-  root "home#index"
+  root "/home#index"
 end
